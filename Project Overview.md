@@ -11,7 +11,7 @@ Jay Jackson, Jessica Camplain, Kristan Pruett, Andrew Walker
 3. Do Karens complain more? 
 ## Datasets
 - US Census Data
-- KDOT roadway data
+- MODOT roadway data
 ## Breakdown of Tasks
 - Kristan Pruett
 -- creation of repository
